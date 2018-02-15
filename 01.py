@@ -1,4 +1,4 @@
-a=0
+a=raw_input("")
 
 if a>0:
 
